@@ -1,0 +1,5 @@
+all 
+none 
+allfornone
+all for none 
+ALL 
